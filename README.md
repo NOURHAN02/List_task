@@ -8,7 +8,7 @@ This app showcases task state transitions, date picking, and a beautiful UI that
 
 |  Date        |  Version |  Download Link      |                                                            
 |--------------|------------|-------------------|
-| 2025-08-08   |  v1.0.0    | [📥 Download APK](https://github.com/USERNAME/REPO_NAME/releases/download/v1.0.0/app-release.apk) |
+| 2025-08-08   |  v1.0.0    | [📥 Download APK](https://github.com/NOURHAN02/List_task/releases/tag/1.0.0) |
 
 ---
 ## ✨ Features
@@ -42,13 +42,17 @@ This app showcases task state transitions, date picking, and a beautiful UI that
 | intl        | Date formatting                 |
 
 ---
-
 ## 📦 Installation
 
-1. Clone the repo:
+Clone the repository and run the project:
 
+```bash
 git clone https://github.com/NOURHAN02/List_task.git
-cd task_list_app
+cd List_task
+flutter pub get
+flutter run
+
+---
 
 ## 🧠 Project Structure
 
