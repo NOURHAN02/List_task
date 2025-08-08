@@ -8,7 +8,7 @@ This app showcases task state transitions, date picking, and a beautiful UI that
 
 |  Date        |  Version |  Download Link      |                                                            
 |--------------|------------|-------------------|
-| 2025-08-08   |  v1.0.0    | [📥 Download APK](https://github.com/NOURHAN02/List_task/releases/tag/1.0.0) |
+| 2025-08-08   |  v1.0.0    | [📥 Download APK](https://github.com/NOURHAN02/List_task/releases/download/1.0.0/app-release.apk) |
 
 ---
 ## ✨ Features
